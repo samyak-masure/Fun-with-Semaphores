@@ -1,1 +1,1 @@
-Interesting Semaphores 
+Semaphores Interesting
