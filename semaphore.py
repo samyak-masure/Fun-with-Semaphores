@@ -1,3 +1,4 @@
+# Inside of a Semaphore
 import time
 from multiprocessing import Process
 
