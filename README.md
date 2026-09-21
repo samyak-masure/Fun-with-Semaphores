@@ -1,1 +1,1 @@
-🥎 Semaphores Interesting
+🥎 Semaphores Interesting & Fun
